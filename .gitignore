@@ -61,3 +61,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/Prueba Rendimiento JAVA/nbproject/private/
+/Prueba Rendimiento JAVA/build/
+/Prueba Rendimiento JAVA/dist/
